@@ -1,5 +1,5 @@
 🚗🔫 Custom Drive-By System
-
+Obrigado por usar meu script - Thug Developer - Edge System --> https://discord.gg/PetxZ3yXjZ
 Sistema simples em Lua para FiveM que habilita e controla o drive-by dentro de veículos, com munição infinita e animações configuradas.
 
 📌 Features
